@@ -8,3 +8,4 @@ Game files
 
 we have customer care that helps you in every order of solving the problem 
 link: https://fastidious-cobbler-bb1af0.netlify.app/auth
+link1: https://fastidious-cobbler-bb1af0.netlify.app/
